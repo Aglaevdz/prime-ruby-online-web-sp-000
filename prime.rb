@@ -5,8 +5,6 @@
       number % x != 0
     end
   else
-    if number ==  0 || number == 0 || number == 1
     return false
-    end
   end
 end
