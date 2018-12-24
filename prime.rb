@@ -7,5 +7,6 @@
   else
     if number ==  0 or number == 0 || number == 1
     return false
+    end
   end
 end
